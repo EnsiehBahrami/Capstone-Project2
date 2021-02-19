@@ -1,4 +1,1 @@
-About the files:
 
-Each dataframe(sheet of main csv file) including df1, df2 and df3 have been cleaned, preprocessed and saved as df1_clean, df2.clean and df3.clean.
-Selected some columns of the cleaned dataframes and performed aggregate functions on. Then all concatenated to create an integrated dataframe called data2017-20.
