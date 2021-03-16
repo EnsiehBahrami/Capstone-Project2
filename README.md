@@ -1,18 +1,18 @@
 # Capstone-Project2
 •	Time series decomposition
-	 Level
-	Trend
-	Seasonality
-	Noise
+	    Level
+	    Trend
+	    Seasonality
+	    Noise
 •	Stationarity
-	AC and PAC plots
-	Rolling mean and std
-	Dickey-Fuller test
+      AC and PAC plots
+      Rolling mean and std
+      Dickey-Fuller test
 •	Making our time series stationary
-	Difference transform
-	Log scale
-	Smoothing
-	Moving average
+      Difference transform
+      Log scale
+      Smoothing
+      Moving average
 
 
 
