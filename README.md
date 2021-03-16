@@ -20,8 +20,6 @@
 •	Making our time series stationary
 
           Difference transform
-	  
-          Log scale
 	   
           Smoothing
 	   
