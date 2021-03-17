@@ -30,7 +30,9 @@
 
 Models Tested
 
-•	Autoregressive Model
+•	Simple Exponential Smoothing
+
+•	Exponential Smoothing
 
 •	ARMA (0, MA)
 
