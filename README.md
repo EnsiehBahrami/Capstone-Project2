@@ -1,4 +1,5 @@
-# Capstone-Project2
+## Water Usage Time Series Analysis and Transformation
+
 •	Time series decomposition
 
 	    Level
@@ -28,7 +29,7 @@
 
 
 
-Models Tested
+## Models Tested
 
 •	Simple Exponential Smoothing
 
