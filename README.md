@@ -41,14 +41,3 @@
 
 •	Seasonal autoregressive integrated moving average (SARIMA)
 
-•	Bayesian regression  
-
-•	Lasso  
-
-•	ElasticNet 
-
-•	RandomizedSearchCV Random Forest Regressor 
-
-•	Bayesian regression Random Forest Regressor
-
-•	XGBoost Regressor 
