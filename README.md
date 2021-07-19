@@ -6,38 +6,38 @@
 	    
 * Trend
 	    
-	    Seasonality
+* Seasonality
 	    
-	    Noise
+* Noise
 	    
 ### Stationarity
 
-           AC and PAC plots
+* AC and PAC plots
       
-           Rolling mean and std
+* Rolling mean and std
       
-           Dickey-Fuller test
+* Dickey-Fuller test
       
-•	Making our time series stationary
+### Making the time series stationary
 
-          Difference transform
+* Difference transform
 	   
-          Smoothing
+* Smoothing
 	   
-          Moving average
+* Moving average
 
 
 
 
 ## Models Tested
 
-•	Simple Exponential Smoothing
+* Simple Exponential Smoothing
 
-•	Exponential Smoothing
+* Exponential Smoothing
 
-•	ARMA (0, MA)
+* ARMA (0, MA)
 
-•	Autoregressive Moving Average (ARMA)
+* Autoregressive Moving Average (ARMA)
 
-•	Seasonal autoregressive integrated moving average (SARIMA)
+* Seasonal autoregressive integrated moving average (SARIMA)
 
