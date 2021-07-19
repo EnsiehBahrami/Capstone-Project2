@@ -1,16 +1,16 @@
 ## Water Usage Time Series Analysis and Transformation
 
-•	Time series decomposition
+### Time series decomposition
 
-	    Level
+* Level
 	    
-	    Trend
+* Trend
 	    
 	    Seasonality
 	    
 	    Noise
 	    
-•	Stationarity
+### Stationarity
 
            AC and PAC plots
       
